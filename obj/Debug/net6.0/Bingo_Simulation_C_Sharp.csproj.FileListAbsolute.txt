@@ -1,0 +1,15 @@
+C:\Users\fathe\Documents\GitHub\Bingo_Simulation_C_Sharp\bin\Debug\net6.0\Bingo_Simulation_C_Sharp.exe
+C:\Users\fathe\Documents\GitHub\Bingo_Simulation_C_Sharp\bin\Debug\net6.0\Bingo_Simulation_C_Sharp.deps.json
+C:\Users\fathe\Documents\GitHub\Bingo_Simulation_C_Sharp\bin\Debug\net6.0\Bingo_Simulation_C_Sharp.runtimeconfig.json
+C:\Users\fathe\Documents\GitHub\Bingo_Simulation_C_Sharp\bin\Debug\net6.0\Bingo_Simulation_C_Sharp.dll
+C:\Users\fathe\Documents\GitHub\Bingo_Simulation_C_Sharp\bin\Debug\net6.0\Bingo_Simulation_C_Sharp.pdb
+C:\Users\fathe\Documents\GitHub\Bingo_Simulation_C_Sharp\obj\Debug\net6.0\Bingo_Simulation_C_Sharp.csproj.AssemblyReference.cache
+C:\Users\fathe\Documents\GitHub\Bingo_Simulation_C_Sharp\obj\Debug\net6.0\Bingo_Simulation_C_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fathe\Documents\GitHub\Bingo_Simulation_C_Sharp\obj\Debug\net6.0\Bingo_Simulation_C_Sharp.AssemblyInfoInputs.cache
+C:\Users\fathe\Documents\GitHub\Bingo_Simulation_C_Sharp\obj\Debug\net6.0\Bingo_Simulation_C_Sharp.AssemblyInfo.cs
+C:\Users\fathe\Documents\GitHub\Bingo_Simulation_C_Sharp\obj\Debug\net6.0\Bingo_Simulation_C_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\fathe\Documents\GitHub\Bingo_Simulation_C_Sharp\obj\Debug\net6.0\Bingo_Simulation_C_Sharp.dll
+C:\Users\fathe\Documents\GitHub\Bingo_Simulation_C_Sharp\obj\Debug\net6.0\refint\Bingo_Simulation_C_Sharp.dll
+C:\Users\fathe\Documents\GitHub\Bingo_Simulation_C_Sharp\obj\Debug\net6.0\Bingo_Simulation_C_Sharp.pdb
+C:\Users\fathe\Documents\GitHub\Bingo_Simulation_C_Sharp\obj\Debug\net6.0\Bingo_Simulation_C_Sharp.genruntimeconfig.cache
+C:\Users\fathe\Documents\GitHub\Bingo_Simulation_C_Sharp\obj\Debug\net6.0\ref\Bingo_Simulation_C_Sharp.dll
